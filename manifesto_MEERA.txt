@@ -1,0 +1,22 @@
+====================================
+    OPEN SOURCE MANIFESTO
+====================================
+Date: 26 March 2026
+Author: Meera Shaji (24bhi10040)
+
+I believe in the power of open source because:
+
+Every day, I use Linux — a tool built by a community that chose
+to share rather than sell. To me, freedom means freedom — the
+ability to learn, modify, and share without barriers.
+
+I dream of building open source software and sharing it freely with the world,
+because knowledge grows when it is shared, not hidden.
+
+This manifesto represents my commitment to the open source
+philosophy: transparency, collaboration, and freedom.
+
+"Standing on the shoulders of giants" — I will contribute
+so others can stand on mine.
+
+====================================
